@@ -1,0 +1,40 @@
+body{
+    background-color: #D6E2F0;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    padding: 12.5px;
+    padding-bottom: 0px;
+    border-radius: 9%;
+}
+
+td{
+    padding: 10px 25px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+.card{
+    background-color: #fff;
+    width: 275px;
+    margin: auto;
+    margin-top: 125px;
+    border-radius: 15px;
+    padding-bottom: 40px;
+}
+
+.tag{
+    font-weight: 700;
+    font-size: 20px;
+    color: #1F3251;
+    
+}
+
+.instruction{
+    font-weight: 400;
+    font-size: 13px;
+    color: #828282;
+}
+
